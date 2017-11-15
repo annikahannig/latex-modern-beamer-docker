@@ -3,7 +3,13 @@
 *.swo
 *.swp
 *.aux
+*.log
+*.nav
+*.snm
+*.toc
 
 *.pdf
+
+
 
 
