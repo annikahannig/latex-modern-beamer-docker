@@ -1,5 +1,5 @@
 
-# Compile a modern LaTeX-Beamer presentation using docker
+# Compile a LaTeX-Beamer Presentation using Docker
 
 Why? Why not.
 I had some issues in compiling a [Metropolis Theme](https://github.com/matze/mtheme) beamer presentation on my mac.
