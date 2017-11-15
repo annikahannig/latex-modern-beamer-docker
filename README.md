@@ -11,11 +11,11 @@ to compile it for fun and profit.
 
 1. Create the docker image
 
-    make docker_image
+        make docker_image
 
 2. Use docker to compile your presentation
 
-    docker run -v `pwd`:/data -i beamer:latest xelatex ...
+        docker run -v `pwd`:/data -i beamer:latest xelatex ...
 
 
 
